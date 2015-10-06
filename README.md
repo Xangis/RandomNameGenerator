@@ -1,11 +1,11 @@
 RandomNameGenerator
 ===================
 
-A basic random name generator.
+A basic random name generator. It was originally released on http://zetacentauri.com
 
-A compiled version of this program with Windows installer is available here:
+![Random Name Generator Screenshot](https://github.com/Xangis/RandomNameGenerator/blob/master/images/RandomNameGenerator1.png)
 
-http://zetacentauri.com/software_randomnamegenerator.htm
+A prebuilt Windows installer is available in the installer directory.
 
 This application was written using C# .NET 2.0 and should run on any system that
 supports .NET 2.0.  A project is included for Visual Studio 11. It doesn't have any
