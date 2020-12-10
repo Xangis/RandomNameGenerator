@@ -201,7 +201,7 @@ namespace RandomNameGenerator
 
         private void btnAbout_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Random Name Generator 1.0\n\nThe Random Name Generator is copyright 2011-2012 Zeta Centauri.\nhttp:\\\\zetacentauri.com\n\nThe Random Name Generator is freeware and may be distributed freely.", "About the Random Name Generator");
+            MessageBox.Show("Random Name Generator 1.01\n\nThe Random Name Generator is copyright 2011-2020 Lambda Centauri.\nhttps://lambdacentauri.com\n\nThe Random Name Generator is freeware and may be distributed freely.", "About the Random Name Generator");
         }
     }
 }
